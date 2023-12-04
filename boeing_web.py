@@ -96,3 +96,5 @@ class boeing_737_max(TestCase):
         print(table_Boeing_737_Max)
         driver.maximize_window()
         time.sleep(5)
+
+    print("Boeing website end")
